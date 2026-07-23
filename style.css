@@ -376,6 +376,7 @@ h2 {
   border: 2px solid var(--line);
   box-shadow: var(--shadow-soft);
   aspect-ratio: 5/4;
+  color: blue;
 }
 
 .feature-fill {
